@@ -1,0 +1,25 @@
+p {
+  color:blue;
+}
+
+#site-title {
+  font-size: 50px;
+  border-color: rgb(2, 1, 1);
+  border-width: 5px;
+  border-style: solid;
+}
+
+.site-nav-item {
+  font-style: italic;
+}
+
+#site-title:hover {
+  color:pink;
+  font-style: italic;
+}
+
+img {
+  width:50px;
+  height: 50px;
+}
+
